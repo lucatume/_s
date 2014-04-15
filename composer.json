@@ -1,0 +1,11 @@
+{
+    "authors":[
+    {
+        "email": "info@automattic.com",
+        "name": "Automattic"
+    }
+    ],
+    "description": "Fork of the _s theme to make it compatible with Composer managed WordPress installations",
+    "name": "automattic/_s",
+    "type": "wordpress-theme"
+}
